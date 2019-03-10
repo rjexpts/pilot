@@ -18,18 +18,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
     description = "A website built through Hugo and blogdown."
-
-    # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.12.0"
-    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
-    highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
-
-    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
-    MathJaxVersion = "2.7.5"
+    footer = "<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
 
     # path to the favicon, under "static"
-    favicon = "favicon.ico"
+    favicon = "img/logo.png"
 
     [params.logo]
     url = "/img/logo.png"
