@@ -24,7 +24,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     favicon = "img/logo.png"
 
     [params.logo]
-    url = "/img/logo.png"
+    url = "/logo.png"
     width = 50
     height = 50
     alt = "Logo"
