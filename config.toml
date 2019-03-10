@@ -1,7 +1,7 @@
 baseurl = "http://rjpilot.netlify.com"
 languageCode = "en-us"
 title = "Experiments for the R Journal"
-theme = "hugo-lithium"
+theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -18,7 +18,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Di Cook](https://dicook.org) 2017-9"
+    title = "Experiments for the R Journal"
+    footer = "&copy; Di Cook with a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)"
 
     # path to the favicon, under "static"
     favicon = "img/logo.png"
