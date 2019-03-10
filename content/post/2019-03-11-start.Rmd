@@ -1,0 +1,15 @@
+---
+title: "Start of the project"
+author: "Di Cook"
+date: 2019-03-11T08:00:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Project start
+
+Very excited that this project has been funded by the R Consortium. The new chief editor Norm Matloff is working on hiring editorial assistance. Di Cook and Yihui Xie are going to explore the use of [radix](https://blog.rstudio.com/2018/09/19/radix-for-r-markdown/) for the journal web delivery, and are looking for a research assistant to help.
