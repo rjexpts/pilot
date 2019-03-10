@@ -1,4 +1,4 @@
-baseurl = "http://pilot.netlify.com"
+baseurl = "http://rjpilot.netlify.com"
 languageCode = "en-us"
 title = "Experiments for the R Journal"
 theme = "hugo-lithium"
