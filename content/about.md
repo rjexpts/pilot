@@ -14,3 +14,14 @@ The R Consortium has provided funds to support the hiring of an editorial assist
 - Norm Matloff, Computer Science, University of California-Davis
 - John Verzani, Mathematics, City University of New York
 - Yihui Xie, RStudio
+- Stephanie Kobakian, Monash University
+- Mitch O'Hara-Wild, Monash University
+
+# Progress reports
+
+## 27-Sep-2019 
+
+- Assistant Editor checklist created, and used on first batch of submissions
+- Editor checklist created
+- Suggestions list for revising author guidelines 
+- `rj` package usage documentation begun
