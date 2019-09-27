@@ -1,0 +1,20 @@
+---
+title: "Assistants begin project"
+author: "Di Cook"
+date: 2019-09-27T08:00:00
+categories: ["R"]
+tags: ["R Markdown", "checklist", "documentation"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Assistants started
+
+Really happy to have hired two highly qualified editorial assistants: Stephanie Kobakian and Mitch O'Hara-Wild from Monash University. This is the summary of progress to date:
+
+- Assistant Editor checklist created, and used on first batch of submissions
+- Editor checklist created
+- Suggestions list for revising author guidelines 
+- `rj` package usage documentation begun
