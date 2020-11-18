@@ -10,7 +10,7 @@ tags: ["R Markdown"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# Project report 18 Nov 2020
+# Project report 17 Nov 2020
 
 ## Editorial assistance 
 
