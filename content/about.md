@@ -16,5 +16,3 @@ The R Consortium has provided funds to support the hiring of an editorial assist
 - Yihui Xie, RStudio
 - Stephanie Kobakian, Monash University
 - Mitch O'Hara-Wild, Monash University
-
-# Progress reports

@@ -1,0 +1,30 @@
+---
+title: "Editorial and software development"
+author: "Di Cook"
+date: 2020-11-18T08:00:00
+categories: ["R"]
+tags: ["R Markdown"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Project report 18 Nov 2020
+
+## Editorial assistance 
+
+- Check list for initial submissions based on author guidelines
+- Check list for final article proofing
+- Proofing assistance with final paper versions 
+
+## Software development
+
+Current software development focuses on enhancing the `rj` package:
+
+- `summarise_articles()` to help editors check their assignments
+- additional valid statuses to provide more level of detail of paper progress and AE actions
+- `get_submissions()` reads information from new google drive storage of paper submissions, acknowledges author by email, constructs the paper directory to load to github.
+- Extended DESCRIPTION file structure to add keywords, IDs and AEs
+- Template and guideline files for different actions enhanced
+- Build issue process fixes, but this needs a major overhaul.

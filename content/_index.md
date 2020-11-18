@@ -13,9 +13,6 @@ The R Consortium has provided funds to support the hiring of an editorial assist
 # Team
 
 - Di Cook, Econometrics and Business Statistics, Monash University
-- Olivia Lau, Google, USA
-- Norm Matloff, Computer Science, University of California-Davis
-- John Verzani, Mathematics, City University of New York
 - Yihui Xie, RStudio
 - Stephanie Kobakian, Monash University
 - Mitch O'Hara-Wild, Monash University
