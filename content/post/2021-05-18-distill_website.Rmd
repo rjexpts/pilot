@@ -1,0 +1,28 @@
+---
+title: "Distill web site"
+author: "Di Cook"
+date: 2021-05-17T08:00:00
+categories: ["R"]
+tags: ["R Markdown"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Project report 19 May 2021
+
+## Editorial assistance 
+
+- System for AE operations implemented
+- Additional routines for AE paper handling
+
+## Software development
+
+- Web site deployment shifted from svn to github
+- Keyword matching function for finding potential reviewers for articles
+
+## Web site development
+
+- New draft web site, where articles are delivered as html and pdf, available at https://rjournal-distill.netlify.app
+- July issue 2021 will be made available in both old and new style
