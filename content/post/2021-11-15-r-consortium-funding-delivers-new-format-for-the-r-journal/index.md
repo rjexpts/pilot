@@ -1,6 +1,6 @@
 ---
 title: R Consortium Funding Delivers New Format for the R Journal
-author: Di Cook, Mitch O'Hara-Wild, H. Sherry Zhang, Stephanie Kobakian, Michael Kane
+author: Di Cook, Mitch O'Hara-Wild, H. Sherry Zhang, Stephanie Kobakian, Michael Kane, Catherine Hurley, Simon Urbanek
 date: '2021-11-15'
 slug: r-consortium-funding-delivers-new-format-for-the-r-journal
 categories: ["R", "R Journal"]
